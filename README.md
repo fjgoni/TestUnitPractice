@@ -7,12 +7,12 @@ framework provided by Visual Studio.
 Steps to Test this features:
 
 IMPORTANT: VISUAL STUDIO IS NECESSARY FOR RUNNING THIS TESTS.
-1- Clone repository into prefered location
-2- Open .sln file using Visual Studio.
-3- Open "TestModuleSabraEjercicios" project.
-4- Open "RentTests.cs"
-5- Go to Test -> Run all tests
-6- Enjoy the view!
+* 1- Clone repository into prefered location
+* 2- Open .sln file using Visual Studio.
+* 3- Open "TestModuleSabraEjercicios" project.
+* 4- Open "RentTests.cs"
+* 5- Go to Test -> Run all tests
+* 6- Enjoy the view!
 
 
 
