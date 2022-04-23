@@ -1,0 +1,14 @@
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.exe
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.deps.json
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.runtimeconfig.json
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.runtimeconfig.dev.json
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.dll
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\bin\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.pdb
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.AssemblyInfoInputs.cache
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.AssemblyInfo.cs
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.dll
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.pdb
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.genruntimeconfig.cache
+C:\Users\Francisco\source\repos\SabraEjerciciosTestUnit\SabraEjerciciosTestUnit\obj\Debug\netcoreapp3.1\SabraEjerciciosTestUnit.csprojAssemblyReference.cache

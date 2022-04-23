@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VAhEf65iQoYEbgHRiqbsGM7nvA4Q/T5mPcl3L/iIdlYFZu/zCkc294OZNS44WP+Lf7gv0l7JzDkbSQGuzri/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francisco\\source\\repos\\SabraEjerciciosTestUnit\\SabraEjerciciosTestUnit\\SabraEjerciciosTestUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
