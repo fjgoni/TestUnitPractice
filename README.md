@@ -1,7 +1,7 @@
 Hello!
 
 This is my first unit test, hope you like it!
-It consists of few classes emulating a rental for bikes / vehicles bussines model. it's only a little bit of bussines logic which is tested using the MSTest testing
+It consists of a few classes emulating a rental for bikes / vehicles bussines model. it's only a little bit of bussines logic which is tested using the MSTest testing
 framework provided by Visual Studio.
 
 Steps to Test this features:
